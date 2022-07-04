@@ -29,4 +29,4 @@ title: Links
 - [Research Taste Exercises, Christopher Olah](https://colah.github.io/notes/taste)
 - [Theory Testing in Psychology and Physics : A Methodological Paradox, Paul Meehl](https://jstor.org/stable/pdf/186099.pdf)
 - [Paul Meehl Lectures](https://meehl.umn.edu/video)
-- [Reversals in psychology, Gavin Leech](https://gleech.org/psych)
+- [Reversals in psychology, Gavin Leech](https://www.gleech.org/psych)
