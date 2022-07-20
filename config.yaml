@@ -26,6 +26,9 @@ menu:
     - name: "Writing"
       url: "/writing/"
       weight: 4
+    - name: "Books"
+      url: "/books/"
+      weight: 5
 
 
 params:

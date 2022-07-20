@@ -2,8 +2,19 @@
 title: Home
 ---
 
-[I have to return some videotapes.](https://www.youtube.com/watch?v=VhkQyc1rRr8)
+I'm a Sport scientist & biomechanist. 
 
-Anyway, here's a picture. 
+Currently: Johannesburg, ZA.
+
+Some things I like:
+- Running (slowly)
+- Coffee (black)
+- Mountains
+- Second hand book stores
+- Rocking chairs
+
+I plan on peaking at 63. Don't worry about it. 
+
+Anyway, [I have to return some videotapes.](https://www.youtube.com/watch?v=VhkQyc1rRr8)
 
 <img src="/images/Train tracks.jpg"  alt="train tracks" />

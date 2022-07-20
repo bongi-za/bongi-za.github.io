@@ -1,0 +1,150 @@
+---
+title: Books
+---
+
+I love a good book list. Sadly, many are sort of all the same stuff. Anyways, here's mine - something like everything since I started keeping note of that sort of thing (~2018), chronologically. I surely don't recommend them all - some of the favourites might get a **.
+
+- Roberts,	**Shantaram**
+- Davis,	**Into the Silence** **
+- McClear,	**Vietnam: The 10 000 Day War**
+- Pauw,	**The Presidents Keepers**
+- Ferris,	**Tribe of Mentors**
+- Sinek,	**Start with Why**
+- Mujika, **Endurance Running: Science & Practice**
+- Orwell,	**1984**
+- Frankel,	**Mans Search for Meaning**
+- Kuhn,	**The Structure of Scientific Revolutions**
+- Curry,	**Daily Rituals: How Artists Work**
+- Wouk,	**The Hope**
+- Harari,	**Homo Deus**
+- Hawking,	**A Brief History of Time**
+- Diamond,	**Guns, Germs and Steel**
+- Cain,	**Quiet**
+- Shermer,	**The Moral Arc**
+- Guelbenzu,	**La Noche en Casa**
+- Doudna,	**Cracking Creation**
+- Carroll,	**The Big Picture**
+- Russell,	**Human Society in Ethics and Politics**
+- Huxley,	**Brave New World**
+- Hemingway,	**For Whom The Bell Tolls**
+- Krakauer,	**Into Thin Air**
+- de Bono,	**Parallel Thinking**
+- Nietzche,	**Zarathustras Discourses**
+- Pressfield,	**Do The Work**
+- Sindermann,	**Winning The Games Scientists Play**
+- Aurelius,	**Meditations**
+- Carnegie,	**How to Win Friends and Influence People**
+- Taleb,	**The Black Swan** **
+- Sun Tzu,	**The Art of War**
+- Collins,	**Good to Great**
+- Garcia Marquez,	**Cien Años de Soledad** **
+- Ariely,	**Predictably Irrational**
+- Gilbert,	**Stumbling on Happiness**
+- Garcia Marquez,	**Relato de un Naufrago**
+- King,	**On Writing**
+- Gladwell,	**The Tipping Point**
+- Taleb,	**Fooled By Randomness**
+- Rand,	**The Fountainhead**
+- Epstein,	**Range**
+- Taleb,	**Skin In The Game**
+- de Quevedo,	**La Vida Del Buscon**
+- Gladwell,	**Outliers**
+- Foster Wallace,	**Everything and More**
+    - I'm sure the old mathematicians could take some issue with the content, but a rare case of maths/science with panache-ful writing.
+- Hesse,	**Siddhartha** **
+- Pressfield,	**The War of Art**
+- Thiel,	**Zero to One** **
+- Lao Tzu,	**Tao Te Ching**
+- Greene, **Mastery**
+- Kahneman,	**Thinking, Fast and Slow**
+- Levinovitz,	**Natural**
+- Harris,	**Waking Up**
+- Emerson,	**Nature**
+- Murakami,	**Norwegian Wood** **
+- Camus,	**The Outsider** **
+- Tolle,	**The Power of Now**
+- Goldacre,	**Bad Science**
+- Dennett,	**Intuition Pumps and other tools for thinking**
+- Feynman,	**Surely you’re joking Mr Feynman**
+- Camus,	**The Plague**
+- Carroll,	**The Big Picture**
+- Sapolsky,	**A Primates Memoir**
+- Dickens,	**A tale of two cities**
+- Sapolsky,	**Behave** [discarded]
+- Murakami,	**What I Talk About When I Talk About Running**
+- Biko, **I Write What I Like** **
+- Davis,	**One River** **
+- Carreyrou,	**Bad Blood**
+- Seneca,	**Letters from a Stoic**
+- Vance,	**Elon Musk**
+- Dostoyevsky,	**Crime and Punishment** **
+- Orwell,	**Animal Farm**
+- Saramago,	**Casi un Objeto**
+- Greene,	**Fabric of the Cosmos**
+- Pinker,	**The Language Instinct**
+- Isaacson,	**Steve Jobs**
+- Graeber,	**Debt: The First 5000 Years**
+- Capote,	**In Cold Blood**
+- Lansing,	**Endurance** **
+    - Terrific. Those were some hard bastards.
+- Walker,	**Why we Sleep** [discarded]
+    - Hyperbole, by god. 
+    - [here](https://statmodeling.stat.columbia.edu/?s=why+we+sleep&submit=Search) and [here](https://guzey.com/books/why-we-sleep/) for more fundamental problems.
+- Taleb,	**The Black Swan**
+- Godfrey-Smith,	**Theory and Reality**
+- Finn,	**Running with the Kenyans**
+- Deutsch,	**The Beginning of Infinity** **
+    - Who knows, might entirely change your worldview.
+- Murakami,	**Kafka on the Shore**
+- Booth,	**The Price of Tomorrow**
+    - Don't bother
+- Noakes,	**The Lore of Running** [discarded]
+    - 1992 edition. Old Timmy Noakes at his best, can skip last few chapters (like me).
+- Rinella,	**American Buffalo**
+- Sankara,	**Thomas Sankara Speaks**
+- Dehgan,	**The Snow Leopard Project**
+- Foster Wallace,	**Infinite Jest** **
+- Thompson,	**Fear and Loathing in Las Vegas** **
+- Neruda,	**Confieso que he vivido**
+- Naipaul,	**A Bend in the River**
+- Pearl,	**The Book of Why**
+    - Rather read the technical stuff
+- Feynman,	**The Meaning of it All**
+- Bronowski,	**The Ascent of Man** **
+- Woolf,	**A room of one’s own**
+- Laing,	**The Politics of Experience and the Bird of Paradise**
+- Descartes,	**A discourse on method**
+- Joyce,	**Portrait of the artist as a young man**
+- Studwell,	**How Asia Works** **
+- Fromm,	**Beyond the Chains of Illusion**
+- Kelly,	**Endurance** [discarded]
+    - Blergh. Making something rad (longest stint on the ISS) seem like a chore.
+    - Space is cool, give us the details. 6 months isn't long, I don't care about your video calls with your family.
+- Watson,	**The Double Helix** **
+- Macintyre,	**The Spy and the Traitor**
+- Adichie,	**Half of a Yellow Sun** **
+- Ambrose,	**Band of Brothers**
+- Sapolsky,	**Why Zebras don’t get ulcers** [discarded]
+- Greene,	**The 48 Laws of Power**
+- Dawkins,	**The Selfish Gene**
+- Wodehouse,	**Inimitable Jeeves**
+    - Wodehouse is delicious.
+- Achebe,	**Things Fall Apart**
+- Dostoyevsky,	**Notes From the Underground** **
+- Herbert,	**Dune** **
+- Cheng,	**The art of logic** [discarded]
+- Feynman,	**What do You Care What other People Think?**
+- Davis,	**The Serpent and the Rainbow**
+- Carroll,	**Something Deeply Hidden**
+- Sartre,	**Nausea**
+- Adichie,	**Americanah**
+- Vargas Llosa,	**Historia de Mayta**
+- Hosseini,	**The Kite Runner**
+- Thich Nhat Hanh,	**Peace Is Every Step**
+- Wodehouse,	**Heavy Weather**
+- Noah,	**Born a Crime** [discarded]
+- Lewis,	**The Big Short** **
+- MacGregor,	**Teddy Rooseveldt**
+- Kafka,	**The Castle** **
+
+---------------------------------------
