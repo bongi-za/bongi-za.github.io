@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Byron Donaldson</title>
+    <link>https://byrondonaldson.github.io/projects/</link>
+    <description>Recent content in Projects on Byron Donaldson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023, Byron Donaldson</copyright>
+    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://byrondonaldson.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running</title>
+      <link>https://byrondonaldson.github.io/projects/running/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://byrondonaldson.github.io/projects/running/</guid>
+      <description>Last updated: Nov 2023
+ &amp;ldquo;A race? You&amp;rsquo;ve lost your mind! Jogging is private, you don&amp;rsquo;t jog for an audience.&amp;quot;
+Cop 223, Chungking Express
+  I have, by now, been running for almost 6 years, cosying up to 17 000 kms. One of the treats of running is as an act of exploration. To explore on foot places you are visiting, a reason to go to a particular place, and to explore closer to home - the area you live.</description>
+    </item>
+    
+  </channel>
+</rss>
