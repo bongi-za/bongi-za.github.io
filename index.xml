@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023, Byron Donaldson</copyright>
-    <lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://byrondonaldson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://byrondonaldson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interesting questions, for yourself, and others</title>
+      <link>https://byrondonaldson.github.io/posts/questions/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://byrondonaldson.github.io/posts/questions/</guid>
+      <description>A good question can be a wonderful thing. Well, I thought I might start a collection! To get better at questions, and to probe more deeply into my own skull, for both general psychic inquiries and more specific situations. If you have good ones, please share them with me! This list will be living. (Source/inspiration provided when known/suitable)
+  What important truth do very few people agree with you on?</description>
+    </item>
+    
     <item>
       <title>Making a Personal Running Heatmap in R &amp; Python</title>
       <link>https://byrondonaldson.github.io/projects/running/</link>
@@ -38,8 +48,8 @@ I was, by now, used to this kind of total, brutish ignorance. After all, my brot
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byrondonaldson.github.io/books/</guid>
-      <description>In an awful twist, I&amp;rsquo;ve come to enjoy keeping records.
-Channeling Garfunkel : roughly everything I&amp;rsquo;ve read since I started tracking. Some favourites might get a **.
+      <description>Somehow, I&amp;rsquo;ve come to enjoy keeping records.
+Channeling Garfunkel : roughly everything I&amp;rsquo;ve read since ~2017. Some favourites might get a **.
 Dates are when I finished or gave up, I&amp;rsquo;m a slow reader so most were started days or months or millenia before.
  2017-03-07 Ferguson, Leading 2017-06-06 Roberts,	Shantaram 2017-09-21 Davis,	Into the Silence ** 2017-12-16 McClear,	Vietnam: The 10 000 Day War 2018-01-18 Pauw,	The Presidents Keepers 2018-03-05 Ferris,	Tribe of Mentors 2018-03-30 Sinek,	Start with Why 2018-04-15 Loehr, The Power of Story 2018-04-30 Frankl,	Mans Search for Meaning 2018-05-12 Curry,	Daily Rituals: How Artists Work 2018-06-28 Harari,	Homo Deus 2018-08-03 Wouk,	The Hope 2018-09-14 Mujika, Endurance Running: Science &amp;amp; Practice 2018-10-10 Orwell,	1984 ** 2018-12-14 Kuhn,	The Structure of Scientific Revolutions 2019-01-15 Hawking,	A Brief History of Time 2019-02-04 Diamond,	Guns, Germs and Steel 2019-02-27 Cain,	Quiet 2019-03-16 Shermer,	The Moral Arc 2019-04-04 Guelbenzu,	La Noche en Casa 2019-04-28 Doudna,	A Crack in Creation 2019-05-12 Carroll,	The Big Picture 2019-05-24 Boldt, How to Find the Work You Love 2019-06-15 Russell,	Human Society in Ethics and Politics 2019-06-29 Huxley,	Brave New World 2019-07-12 Hemingway,	For Whom The Bell Tolls 2019-07-24 Krakauer,	Into Thin Air 2019-08-22 de Bono,	Parallel Thinking 2019-09-05 Nietzche,	Zarathustras Discourses 2019-09-06 Pressfield,	Do The Work 2019-09-26 Sindermann,	Winning The Games Scientists Play 2019-10-04 Aurelius,	Meditations 2019-10-10 Carnegie,	How to Win Friends and Influence People 2019-10-28 Taleb,	The Black Swan ** 2019-11-10 Sun Tzu,	The Art of War 2019-11-25 Collins,	Good to Great 2019-12-29 Garcia Marquez,	Cien Años de Soledad ** 2020-01-10 Ariely,	Predictably Irrational (mmmmm) 2020-01-17 Gilbert,	Stumbling on Happiness 2020-01-29 Garcia Marquez,	Relato de un Naufrago 2020-02-04 King,	On Writing 2020-02-10 Gladwell,	The Tipping Point 2020-02-24 Taleb,	Fooled By Randomness 2020-02-28 Rand,	The Fountainhead 2020-03-10 Epstein,	Range 2020-03-18 Taleb,	Skin In The Game 2020-03-18 de Quevedo,	La Vida Del Buscon 2020-03-25 Gladwell,	Outliers 2020-04-01 Foster Wallace,	Everything and More 2020-04-04 Hesse,	Siddhartha ** 2020-04-06 Pressfield,	The War of Art 2020-04-15 Thiel,	Zero to One ** 2020-04-22 Lao Tzu,	Tao Te Ching ** 2020-05-09 Greene, Mastery 2020-05-16 Kahneman,	Thinking, Fast and Slow (also) 2020-05-18 Levinovitz,	Natural 2020-05-20 Harris,	Waking Up 2020-05-21 Emerson,	Nature 2020-05-24 Murakami,	Norwegian Wood ** 2020-06-01 Camus,	The Stranger ** 2020-06-06 Tolle,	The Power of Now 2020-06-14 Goldacre,	Bad Science 2020-06-28 Dennett,	Intuition Pumps and other tools for thinking 2020-07-05 Feynman,	Surely you’re joking Mr Feynman 2020-07-14 Camus,	The Plague 2020-07-16 Carroll,	The Big Picture 2020-07-28 Sapolsky,	A Primates Memoir ** 2020-08-03 Dickens,	A tale of two cities 2020-08-07 Murakami,	What I Talk About When I Talk About Running 2020-08-21 Biko, I Write What I Like ** 2020-10-10 Davis,	One River ** 2020-10-14 Carreyrou,	Bad Blood 2020-10-30 Seneca,	Letters from a Stoic 2020-11-23 Sandes, Abriendo Camino 2020-12-04 Vance,	Elon Musk 2020-12-08 Dostoyevsky,	Crime and Punishment ** 2020-12-12 Orwell,	Animal Farm 2020-01-16 Saramago,	Casi un Objeto 2021-01-09 Greene,	Fabric of the Cosmos 2021-01-31 Pinker,	The Language Instinct 2021-02-08 Isaacson,	Steve Jobs** 2021-02-22 Graeber,	Debt: The First 5000 Years 2021-03-03 Capote,	In Cold Blood 2021-03-21 Lansing,	Endurance ** 2021-04-02 Taleb,	The Black Swan** 2021-04-22 Godfrey-Smith,	Theory and Reality 2021-04-25 Finn,	Running with the Kenyans 2021-04-28 Deutsch,	The Beginning of Infinity ** 2021-05-04 Murakami,	Kafka on the Shore** 2021-05-10 Booth,	The Price of Tomorrow (Booo, should&amp;rsquo;ve discarded) 2021-06-09 Rinella,	American Buffalo 2021-06-20 Sankara,	Thomas Sankara Speaks 2021-07-20 Dehgan,	The Snow Leopard Project 2021-07-27 Foster Wallace,	Infinite Jest ** 2021-08-02 Thompson,	Fear and Loathing in Las Vegas ** 2021-08-05 Neruda,	Confieso que he vivido ** 2021-08-21 Naipaul,	A Bend in the River 2021-08-26 Pearl,	The Book of Why 2021-08-29 Feynman,	The Meaning of it All 2021-09-07 Bronowski,	The Ascent of Man ** 2021-09-12 Woolf,	A room of one’s own 2021-09-23 Laing,	The Politics of Experience and the Bird of Paradise 2021-09-24 Descartes,	A discourse on method 2021-10-08 Joyce,	Portrait of the artist as a young man 2021-10-17 Studwell,	How Asia Works ** 2021-10-22 Fromm,	Beyond the Chains of Illusion 2021-11-02 Watson,	The Double Helix ** 2021-11-14 Macintyre,	The Spy and the Traitor 2021-11-26 Adichie,	Half of a Yellow Sun ** 2022-01-10 Ambrose,	Band of Brothers 2022-01-18 Greene,	The 48 Laws of Power 2022-01-29 Dawkins,	The Selfish Gene 2022-02-09 Wodehouse,	Inimitable Jeeves ** 2022-02-17 Achebe,	Things Fall Apart 2022-03-12 Dostoyevsky,	Notes From the Underground ** 2022-04-17 Herbert,	Dune ** 2022-04-02 Feynman,	What do You Care What other People Think?</description>
     </item>
@@ -60,10 +70,10 @@ Dates are when I finished or gave up, I&amp;rsquo;m a slow reader so most were s
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://byrondonaldson.github.io/papers/</guid>
-      <description>google scholar
+      <description>Full list at google scholar
+  Donaldson BJ, Bezodis NE, Bayne H (2024), Characterising coordination strategies during initial acceleration in sprinters ranging from highly trained to world class, Journal of Sports Sciences, https://doi.org/10.1080/02640414.2023.2298100
   Donaldson BJ., Bezodis NE., Bayne H. (2022), Inter- and intra-limb coordination during initial sprint acceleration, Biology Open, bio.059501, https://doi.org/10.1242/bio.059501
-  Hohl R., Blackhurst D.M., Donaldson B., van Boom K., Kohn T.A. (2020), Wild antelope skeletal muscle antioxidant enzyme activities do not correlate with muscle fibre type or oxidative metabolism, Comparative Biochemistry and Physiology Part A, 242: 110638, https://doi.org/10.1016/j.cbpa.2019.110638
-  </description>
+  Hohl R., Blackhurst D.M., Donaldson B., van Boom K., Kohn T.A. (2020), Wild antelope skeletal muscle antioxidant enzyme activities do not correlate with muscle fibre type or oxidative metabolism, Comparative Biochemistry and Physiology Part A, 242: 110638, https://doi.</description>
     </item>
     
     <item>
@@ -73,8 +83,8 @@ Dates are when I finished or gave up, I&amp;rsquo;m a slow reader so most were s
       
       <guid>https://byrondonaldson.github.io/writing/</guid>
       <description>Just Do 100 Things! After all, there are plenty of people writing badly on the internet, why not me? (at least, in the beginning)
-1/100
- Chiloe  </description>
+2/100
+ Questions, for yourself, and others (*Living List) Chiloe  </description>
     </item>
     
   </channel>

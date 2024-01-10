@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://byrondonaldson.github.io/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://byrondonaldson.github.io/posts/questions/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://byrondonaldson.github.io/posts/</loc>
+    <lastmod>2023-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://byrondonaldson.github.io/projects/running/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://byrondonaldson.github.io/projects/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://byrondonaldson.github.io/projects/running/</loc>
-    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://byrondonaldson.github.io/writing/chiloe/</loc>
-    <lastmod>2023-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://byrondonaldson.github.io/writing/</loc>
+    <loc>https://byrondonaldson.github.io/posts/chiloe/</loc>
     <lastmod>2023-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://byrondonaldson.github.io/books/</loc>
@@ -26,5 +29,7 @@
     <loc>https://byrondonaldson.github.io/papers/</loc>
   </url><url>
     <loc>https://byrondonaldson.github.io/tags/</loc>
+  </url><url>
+    <loc>https://byrondonaldson.github.io/writing/</loc>
   </url>
 </urlset>
